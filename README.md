@@ -1,6 +1,9 @@
-<!doctype html>
 <html lang="en">
 <head>
+<title>Clean CPS Test - Free Click Speed Test</title>
+<meta name="description" content="Test your clicking speed with Clean CPS Test. A fast, accurate, and responsive Clicks Per Second tester.">
+<meta name="keywords" content="CPS Test, Click Speed Test, Click Test, Clicks Per Second">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>BlecnoTade's CPS Test — 1440×900</title>
